@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Clowns
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 📫 How to reach me Discord
+Yes it is me
+
+..
+
+I'll wait for the applause 
