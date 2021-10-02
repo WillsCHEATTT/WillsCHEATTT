@@ -3,13 +3,13 @@
 
 Hi, I'm Zackery, a developer from Maine.
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Go
 - 💬 Want to ask a question ask me about anything [here](https://github.com/WillsCHEATTT/WillsCHEATTT/discussions/categories/q-a)
 - ✉️ Need to contact me? If so here is my email zackery.smith82307@gmail.com
 
 **Languages I Know/Learning** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
