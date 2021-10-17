@@ -3,7 +3,7 @@
 
 Hi, I'm Zackery, a developer from Maine.
 
-<!-- - 🌱 I’m currently [] -->
+<!-- - 🌱 I’m currently [Doing nothing :I so I guess I will just hide this.] -->
 - 💬 Want to ask a question ask me about anything [here](https://github.com/WillsCHEATTT/WillsCHEATTT/discussions/categories/q-a)
 - ✉️ Need to contact me? If so here is my email zackery.smith82307@gmail.com
 
