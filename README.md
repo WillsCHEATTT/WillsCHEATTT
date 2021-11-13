@@ -7,7 +7,7 @@ Hi, I'm Zackery, a developer from Maine.
 - 💬 Want to ask a question ask me about anything [here](https://github.com/WillsCHEATTT/WillsCHEATTT/discussions/categories/q-a)
 - ✉️ Need to contact me? If so here is my email zackery.smith82307@gmail.com
 
-**Languages I Know/Learning** 
+**Languages I Know** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
