@@ -18,4 +18,4 @@ Hi, I'm Zackery, a developer from Maine.
 *NOTE: These languages does not indicate my skill level or something like that, it's a Github metric of the languages. This only counts the **public** code on Github*
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryRSmith&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Ra1nbow's Stats" /></a>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZackeryRSmith&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="WillsCHEATTT's Stats"/></a>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZackeryRSmith&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="ZackeryRSmith's Stats"/></a>
