@@ -2,7 +2,6 @@
   <b>Hello 👋, I'm Zackery</b><br>
 </p>
 
-<br><br>
 <p align="center">
 	<b>Languages & Frameworks</b>
 	<br>
