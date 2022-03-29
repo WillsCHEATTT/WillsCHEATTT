@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hello 👋, I'm Zackery</b><br>
+  <b>Hello 👋, I'm Zackery a developer from Maine</b><br>
 </p>
 
 <p align="center">
