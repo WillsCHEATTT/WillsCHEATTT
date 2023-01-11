@@ -1,5 +1,8 @@
-<!-- Thanks timlg07 for this code -->
-<p align='center'>
-	<img src="https://github-readme-stats.vercel.app/api?username=ZackeryRSmith&amp;hide_border=true&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117ff&amp;theme=dark" style="max-width: 50%;" width="490">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackeryRSmith&amp;hide_border=true&amp;bg_color=0d1117ff&amp;exclude_repo=MatterelloMV&amp;langs_count=10&amp;layout=compact&amp;theme=dark" style="max-width: 50%;" width="340">
-</p>
+<center>
+	<a href="https://git.io/typing-svg">
+		<img 
+			src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=10&color=FFFFFFC8&center=true&width=435&lines=I'm+Zackery+Smith;A+bird+enthusiast;A+software+developer;Contributing+to+projects+near+you!"
+			alt="Typing SVG" /></a>
+
+	<img src="./computta.gif" />
+</center>
