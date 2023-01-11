@@ -1,8 +1,9 @@
 <div align="center">
   <img src="./typing.svg" alt="Typing SVG" />
-  <img src="./computta.gif" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Calendar" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Calendar"/>
 
+  <br />
+  <br />
   <br />
 
   <h3> Support me by starring ⭐ some of my repositories </h3>
