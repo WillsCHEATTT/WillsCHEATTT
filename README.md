@@ -5,7 +5,7 @@
 
   <br />
 
-  <h3> Support Me By Starring :star: Some Of My Repositories </h3>
-  <img src =""/>
+  <h3> Support me by starring ⭐ some of my repositories </h3>
+  <img src="./thanks.gif" width=200 height=200 />
+  <h3> Thank you! </h3>
 </div>
-
