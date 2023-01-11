@@ -1,8 +1,11 @@
-<center>
-	<a href="https://git.io/typing-svg">
-		<img 
-			src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=10&color=FFFFFFC8&center=true&width=435&lines=I'm+Zackery+Smith;A+bird+enthusiast;A+software+developer;Contributing+to+projects+near+you!"
-			alt="Typing SVG" /></a>
+<div align="center">
+  <img src="./typing.svg" alt="Typing SVG" />
+  <img src="./computta.gif" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Calendar" />
 
-	<img src="./computta.gif" />
-</center>
+  <br />
+
+  <h3> Support Me By Starring :star: Some Of My Repositories </h3>
+  <img src =""/>
+</div>
+
